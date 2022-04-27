@@ -44,4 +44,4 @@ const movies = {
 			text: "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
 		}
 	]
-},
+}
