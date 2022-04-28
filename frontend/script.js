@@ -15,7 +15,7 @@ const loadEvent = function () {
     Movies
     </h1>`);
 
-    for (const movie of movies.cards) {
+    for (const movie of movie.cards) {
         rootElement.insertAdjacentHTML("beforeend", MovieListComponent(movie.title, movie.sub, movie.text))
     }
 }
